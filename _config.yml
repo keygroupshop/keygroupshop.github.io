@@ -1,13 +1,13 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Keygroupshop
+title: Keygroupshop | A blog theme for Jekyll
+description: 정신적 에너지를 보존하기 위한 나만의 가구. 멘탈케어 서비스
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - funiture
+  - woodwork
+  - workshop
+  - keygroupshop
+  - shop
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
@@ -27,7 +27,7 @@ menu:
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
-instagram_username: instagram_username
+instagram_username: keygroup_workshop
 linkedin_username: linkedin_username
 medium_username: medium_username
 
@@ -43,7 +43,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "ko"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
