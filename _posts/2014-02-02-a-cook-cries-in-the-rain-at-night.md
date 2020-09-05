@@ -1,17 +1,17 @@
 ---
 date: 2017-06-04 12:00:00
 layout: post
-title: A cook cries in the rain at night
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
-category: diet
+title: 로고를 제작
+subtitle: 로고가 필요
+description: 로고도 직접
+image: https://images2.imgbox.com/5c/24/1ipRuxBx_o.jpg
+optimized_image: https://thumbs2.imgbox.com/5c/24/1ipRuxBx_t.jpg
+category: 디자인
 tags:
-  - cook
-  - cucine
-  - story
-author: thiagorossener
+  - 디자인
+  - 로고
+  - 키구룹
+author: 키목
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

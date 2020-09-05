@@ -1,23 +1,22 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2020-09-03T23:48:05.000Z
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: 초콜릿 딸깍 stool
+subtitle: '초콜릿 또각 에서 진화'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  목재의 두번째 특징 과자같은 홈카페의 따듯함을 반영한 초콜릿 딸깍 스툴.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://images2.imgbox.com/85/4d/at7QzH4V_o.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://thumbs2.imgbox.com/85/4d/at7QzH4V_t.jpg
 category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: octo
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+키구룹에서 제안하는 목재의 두번째 Key포인트. 과자같은 홈카페의 따듯함이 반영된 초콜릿 딸깍 스툴.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

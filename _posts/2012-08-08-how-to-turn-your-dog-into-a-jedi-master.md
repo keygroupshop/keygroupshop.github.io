@@ -1,17 +1,17 @@
 ---
 date: 2018-02-03 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+title: 옥토의 새로운 제안. 트롤리.
+subtitle: 트롤리
+description: 옥토디자인
+image: https://images2.imgbox.com/55/a0/KjlqpZet_o.png
+optimized_image: https://thumbs2.imgbox.com/55/a0/KjlqpZet_t.png
+category: 홈카페
 tags:
-  - jedi
-  - doggo
-  - starwars
-author: thiagorossener
+  - 트롤리
+  - 서랍
+  - 레일
+author: 옥토
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -125,13 +125,3 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
