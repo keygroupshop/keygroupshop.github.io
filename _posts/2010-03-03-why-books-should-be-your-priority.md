@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2020-09-05T23:48:05.000Z
 layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -12,8 +12,11 @@ category: life
 tags:
   - books
   - read
-author: thiagorossener
+author: octo
 paginate: true
+cloudName: keygroupshop
+cloudImageTag: people
+cloudeVideoTag: people
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.

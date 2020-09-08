@@ -14,13 +14,19 @@ tags:
   - welcome
   - blog
 author: octo
-paginate: true
+paginate: false
+cloudName: sambrace
+cloudImageTag: dress
+cloudeVideoTag: dress
+cloudeSpinTag: false
 ---
+
 키구룹에서 제안하는 목재의 두번째 Key포인트. 과자같은 홈카페의 따듯함이 반영된 초콜릿 딸깍 스툴.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+
 
 ## Inline HTML elements
 

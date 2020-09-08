@@ -1,1 +1,66 @@
 <!-- Add your table of contents here -->
+{% if page.cloudName %}
+    <div id="my-gallery" style="max-width:100%;margin:auto">
+    </div>
+
+    <script type="text/javascript">
+  const myWidget = cloudinary.galleryWidget({
+      "container": "#my-gallery",
+      "cloudName": "{{ page.cloudName }}",
+      "mediaAssets": [{% if page.cloudImageTag %}
+       {"tag": "{{ page.cloudImageTag }}",
+           "mediaType": "image"},
+           {% endif %}
+           {% if page.cloudeVideoTag %}
+       {"tag": "{{ page.cloudeVideoTag }}",
+           "mediaType": "video"},
+           {% endif %}
+           {% if page.cloudeSpinTag %} {
+           "tag": "{{ page.cloudeSpinTag }}",
+           "mediaType": "spin"
+       }{% endif %}],
+      "displayProps": {
+          "mode": "classic",
+          "spacing": 15
+      },
+      "aspectRatio": "16:9",
+      "transformation": {
+          "crop": "fill"
+      },
+      "bgColor": "transparent",
+      "carouselLocation": "bottom",
+      "carouselOffset": 10,
+      "navigation": "mouseover",
+      "thumbnailProps": {
+          "mediaSymbolSize": 42,
+          "spacing": 20,
+          "width": 90,
+          "height": 90,
+          "navigationFloat": true,
+          "navigationShape": "radius",
+          "navigationSize": 40,
+          "navigationColor": "#ffffff",
+          "selectedStyle": "border",
+          "selectedBorderPosition": "left-right",
+          "selectedBorderWidth": 4,
+          "mediaSymbolShape": "radius"
+      },
+      "navigationButtonProps": {
+          "shape": "none",
+          "iconColor": "#ffffff",
+          "color": "#000",
+          "size": 52,
+          "navigationPosition": "offset",
+          "navigationOffset": 12
+      },
+      "themeProps": {
+          "primary": "#000000",
+          "active": "#777777",
+          "onPrimary": "#ffffff"
+      },
+      "transition": "fade",
+      "carouselStyle": "thumbnails"
+  });
+  myWidget.render();
+    </script>
+{% endif %}
