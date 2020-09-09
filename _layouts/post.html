@@ -94,14 +94,14 @@
         {% if author.twitter_username %}
             {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: author.twitter_username | append: '",' %}
         {% endif %}
-        {% if author.medium_username %}
-            {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: author.medium_username | append: '",' %}
+        {% if author.tumblr_username %}
+            {% assign author_urls = author_urls | append: '"https://tumblr.com/@' | append: author.tumblr_username | append: '",' %}
         {% endif %}
         {% if author.instagram_username %}
             {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: author.instagram_username | append: '",' %}
         {% endif %}
-        {% if author.linkedin_username %}
-            {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
+        {% if author.pinterest_username %}
+            {% assign author_urls = author_urls | append: '"https://www.pinterest.com/' | append: author.pinterest_username | append: '",' %}
         {% endif %}
         {% if page.math %}
         <script>

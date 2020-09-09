@@ -39,14 +39,14 @@ layout: page
 {% if page.twitter_username %}
     {% assign author_urls = author_urls | append: '"https://twitter.com/' | append: page.twitter_username | append: '",' %}
 {% endif %}
-{% if page.medium_username %}
-    {% assign author_urls = author_urls | append: '"https://medium.com/@' | append: page.medium_username | append: '",' %}
+{% if page.tumblr_username %}
+    {% assign author_urls = author_urls | append: '"https://tumblr.com/@' | append: page.tumblr_username | append: '",' %}
 {% endif %}
 {% if page.instagram_username %}
     {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: page.instagram_username | append: '",' %}
 {% endif %}
-{% if page.linkedin_username %}
-    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: page.linkedin_username | append: '",' %}
+{% if page.pinterest_username %}
+    {% assign author_urls = author_urls | append: '"https://www.pinterest.com/' | append: page.pinterest_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
@@ -66,3 +66,4 @@ layout: page
     ]
 }
 </script>
+tumblr

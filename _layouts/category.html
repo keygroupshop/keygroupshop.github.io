@@ -33,8 +33,7 @@
                                                 </noscript>
                                             {% endif %}
                                             {% include new-post-tag.html date=post.date %}
-                                            {% include read-icon.html %}
-                                        </a>
+                                       </a>
                                     {% endif %}
                                     <div class="box-info">
                                         <time datetime="{{ post.date | date_to_xmlschema }}" class="date">
@@ -66,6 +65,3 @@
         {% include footer.html %}
     </body>
 </html>
-
-
-
