@@ -54,7 +54,7 @@ aside.sidebar {
     line-height: 50px;
 
     @include media(">=sm") {
-      font-size: rem(20px);
+      font-size: rem(30px);
     }
   }
 
@@ -77,6 +77,7 @@ aside.sidebar {
           padding: rem(15px) rem(20px);
           text-decoration: none;
           @include mainFont(300);
+          font-size: x-large;
           color: $primaryDark;
 
           &:hover {
