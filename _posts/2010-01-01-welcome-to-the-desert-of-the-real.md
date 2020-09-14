@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: octo
+author: Keygroupshop
 paginate: false
 cloudName: sambrace
 cloudImageTag: dress
