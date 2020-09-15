@@ -14,18 +14,14 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Small
-    url: /
-  - title: Medium
-    url: /
-  - title: Large
-    url: /
   - title: About
     url: /about
+  - title: Shop
+    url: /category/shop
+  - title: Life
+    url: /life
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 
 
 # Social Media Settings

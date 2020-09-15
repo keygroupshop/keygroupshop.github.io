@@ -6,7 +6,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://images2.imgbox.com/1d/6c/ZFQ3bt2d_o.jpg
 optimized_image: https://thumbs2.imgbox.com/1d/6c/ZFQ3bt2d_t.jpg
-category: css
+category: shop
 tags:
   - css
   - tips

@@ -6,7 +6,7 @@ subtitle:
 description:
 image: https://images2.imgbox.com/2d/e6/ClVW3tgy_o.png
 optimized_image: https://thumbs2.imgbox.com/2d/e6/ClVW3tgy_t.png
-category: diet
+category: shop
 tags:
   - food
   - tips

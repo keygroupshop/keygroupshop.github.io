@@ -9,10 +9,10 @@ image: >-
   https://images2.imgbox.com/85/4d/at7QzH4V_o.jpg
 optimized_image: >-
   https://thumbs2.imgbox.com/85/4d/at7QzH4V_t.jpg
-category: blog
+category: shop
 tags:
   - welcome
-  - blog
+  - shop
 author: Keygroupshop
 paginate: false
 cloudName: sambrace

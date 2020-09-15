@@ -68,6 +68,24 @@ body {
     }
   }
 
+    .gocart {
+      float: right;
+      width: rem(30px);
+      height: rem(30px);
+      cursor: pointer;
+      margin: 0;
+      @include media(">=sm") {
+        margin: 0 rem(5px) 0 0;
+      }
+    }
+
+    .icon-cart {
+      width: rem(20px);
+      height: rem(20px);
+      fill: $accentDark;
+      margin: rem(5px);
+    }
+
   .dosearch {
     float: right;
     width: rem(30px);
@@ -118,7 +136,8 @@ body.light:not(.main-page) {
     background-color: rgba(255, 255, 255, 0.95);
 
     .icon-search,
-    .icon-menu {
+    .icon-menu,
+    .icon-cart {
       fill: $primaryDark;
     }
 
