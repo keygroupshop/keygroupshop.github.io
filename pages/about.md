@@ -5,13 +5,12 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
-
+<svg style="height: 320px;"><use xlink:href="#icon-keygroupshop"></use></svg>
 # About
+(테스트)
+디자인에 ism과 운동이 있듯
+키구룹샵은 가구를 바라보는 관점이 있습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+키구룹은 가구에 대한 관점을 발견하고 디자인합니다. 키구룹이 제안하는 Key를 안고 만들어진 가구들이 모여 group을 이룹니다. 또 다른 key를 제시하고 디자인합니다.
+
+#### 첫번째Key: 오브젝트

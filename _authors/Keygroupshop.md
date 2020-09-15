@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/Keygroup_Workshop.png
 name: Keygroupshop
 display_name: Keygroup Workshop
 position: Editor

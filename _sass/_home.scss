@@ -60,11 +60,11 @@
 
   &:hover {
     z-index: 2;
-    transform: scale(1.1);
+    transform: scale(1.015);
 
     img {
       -webkit-filter: grayscale(100%);
-      filter: saturate(1.5) contrast(1.5) hue-rotate(-15deg);
+      filter: saturate(1.2) contrast(1.2) hue-rotate(-5deg);
       transform: scale(1.05);
     }
 

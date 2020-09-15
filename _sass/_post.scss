@@ -37,7 +37,7 @@
     padding: rem(60px) rem(10px) 0;
   }
 
-  img {
+  img,svg {
     max-width: 50rem;
     margin: rem(0px) auto;
     display: block;
@@ -377,7 +377,7 @@
           color: rgba(0, 0, 0, 0.5);
           img {
             -webkit-filter: grayscale(100%);
-            filter: saturate(1.5) contrast(1.5) hue-rotate(-15deg);
+            filter: saturate(1.2) contrast(1.2) hue-rotate(-5deg);
             transform: scale(1.05);          }
         }
       }
@@ -581,7 +581,7 @@
 
       .image > img {
         -webkit-filter: grayscale(100%);
-        filter: saturate(1.5) contrast(1.5) hue-rotate(-15deg);
+        filter: saturate(1.2) contrast(1.2) hue-rotate(-5deg);
         transform: scale(1.05);      }
     }
 
