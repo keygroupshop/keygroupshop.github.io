@@ -1,6 +1,6 @@
 ---
 date: 2018-10-09 12:26:40
-layout: post
+layout: shop
 title: The quick brown fox jumps over a lazy dog
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

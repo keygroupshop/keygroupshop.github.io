@@ -28,7 +28,27 @@
     }
   }
 }
+.post.two-columns-shop {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: rem(40px);
 
+  @include media(">=sm") {
+    max-width: 95%;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: rem(40px) 0;
+  }
+
+  .post-content {
+    // padding-bottom: rem(10px);
+       padding: 30px 15px 0 15px;
+    @include media(">=sm") {
+      flex-basis: 70%;
+      padding: 0 rem(30px) 0 rem(10px);
+    }
+  }
+}
 .post-content {
   overflow-x: auto;
   padding: rem(40px) 0;
@@ -384,6 +404,80 @@
     }
   }
 }
+
+/* See also shop*/
+
+.see-also-shop {
+  padding: 0 rem(20px);
+
+  @include media(">=960px") {
+    // max-width: 90%;
+    margin: auto;
+    // flex-basis: 30%;
+    padding: 0 rem(10px);
+  }
+
+  h2 {
+    font-size: rem(24px);
+    font-weight: bold;
+    border-bottom: 1px solid $lightGray;
+    padding: rem(10px) 0;
+    @include media(">=960px") {
+      padding: rem(48px) 0 rem(20px);
+    }
+  }
+
+  ul {
+    display: flex;
+    flex-flow: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    @include media(">=960px") {
+      display: flex;
+      flex-flow: row;
+      justify-content:center;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: block;
+      width: 50%;
+      padding: 1rem;
+      @include media(">=sm") {
+      display: block;
+      width: 33.3%;
+      padding: 1rem;
+    }
+      @include media(">=960px") {
+      display: block;
+      width: 25%;
+      padding: 1rem;
+    }
+      img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        transition: all 0.2s ease-in-out;
+      }
+    }
+      a {
+        font-weight: normal;
+        color: $primaryDark;
+        text-decoration: none;
+        transition: all 0.3s;
+      }
+        &:hover {
+          color: rgba(0, 0, 0, 0.5);
+          img {
+            -webkit-filter: grayscale(100%);
+            filter: saturate(1.2) contrast(1.2) hue-rotate(-5deg);
+            transform: scale(1.05);          }
+        }
+      }
+    }
 
 /* Progress bar */
 
