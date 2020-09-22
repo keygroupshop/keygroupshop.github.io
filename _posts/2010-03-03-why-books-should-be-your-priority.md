@@ -1,142 +1,42 @@
 ---
-date: 2020-09-05T23:48:05.000Z
+date: 2020-09-21T23:48:05.000Z
 layout: shop
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: 가로,세로,대각선 STOOL
+subtitle: 250,000₩
+description: 바스툴은 키가 큽니다. 앉으면 스툴 다리 사이 어딘가에 우리 다리가 자리를 잡습니다. 키가 커진만큼 우리의 엉덩이 뿐만 아니라 다리도 걸터앉을 자리가 필요합니다. 바로 그곳에 디자인이 소용됩니다. 단순함과 기본의 조합으로 다양한 변주의 가능성을 심어봤습니다.
 image: >-
   https://images2.imgbox.com/16/49/WUZAiRNE_o.jpg
 optimized_image: >-
   https://thumbs2.imgbox.com/16/49/WUZAiRNE_t.jpg
 category: life
 tags:
-  - books
-  - read
-author: octo
+  - 바스툴
+  - 카페
+author: Keygroup Workshop
 paginate: true
 cloudName: keygroupshop
 cloudImageTag: people
 cloudeVideoTag: people
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
-
 <!--page-->
 
-## Inline HTML elements
+스툴은 가구의 기본적인 모습입니다. 단순한 모양으로  앉거나 올리거나 내리는 어느 용도에도 어색하지 않아요.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+약방의 감초같은 스툴이라 더욱 가구디자이너의 영감을 자극하는 소재이지만 그 단순한 매력때문인지 디자인을 더 조심스럽게 만듭니다.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+바스툴은 키가 큽니다. 앉으면 스툴 다리 사이 어딘가에 우리 다리가 자리를 잡습니다.
 
-Most of these elements are styled by browsers with few modifications on our part.
+키가 커진만큼 우리의 엉덩이 뿐만 아니라 다리도 걸터앉을 자리가 필요합니다.
 
-<!--page-->
+바로 그곳에 디자인이 소용됩니다. 단순함과 기본의 조합으로 다양한 변주의 가능성을 심어봤습니다.
 
-# Heading 1
+상판의 각도. 다리 사이를 연결하는 가공된 가로, 세로, 대각선. 자연스레 토막으로 심어진 엣지.
 
-## Heading 2
+  점,선,각을 이루는 Keygroup이 심은 씨앗입니다.
 
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
+|        | 가로  | 세로  | 높이  |       수종       |
+| ------ | :---: | :---: | :---: | :--------------: |
+| 바스툴 | 421mm | 421mm | 744mm | 월넛, 화이트오크 |
 
 <!--page-->
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-<!--page-->
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<!--page-->
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.

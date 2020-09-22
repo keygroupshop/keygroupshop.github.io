@@ -8,7 +8,7 @@
 
         <section class="post {% if site.two_columns_layout %}two-columns-shop{% else %}one-column{% endif %}">
                 {% include toc.html %}
-            <article role="article" class="post-content">
+            <article role="article" class="post-content-shop">
                 <!-- <p class="post-info">
                     {% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
@@ -21,7 +21,8 @@
                 </p> -->
                 <h3 class="post-title">{{ page.title }}</h3>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
-
+                <p><a id="cart" href="https://smartstore.naver.com/keygroup" class="gocart" role="button">
+                <svg class="icon-cart"><use xlink:href="#icon-cart"></use></svg></a> …ᘛ⁐̤ᕐᐷ STORE</p>
                 {% if page.image and paginator.activated == nil %}
 
                 <!-- <img src="{{ page.image }}" alt="Featured image" class="post-cover"> -->
