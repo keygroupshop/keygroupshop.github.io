@@ -59,8 +59,8 @@ body {
     float: left;
     cursor: pointer;
     margin: rem(5px) rem(20px) rem(5px) 0;
-    width: rem(24px);
-    height: rem(24px);
+    width: rem(20px);
+    height: rem(20px);
     fill: $accentDark;
 
     @include media(">=sm") {
@@ -80,8 +80,8 @@ body {
     }
 
     .icon-cart {
-      width: rem(24px);
-      height: rem(24px);
+      width: rem(20px);
+      height: rem(20px);
       fill: $accentDark;
       margin: rem(5px);
     }
@@ -98,15 +98,15 @@ body {
   }
 
   .icon-search {
-    width: rem(24px);
-    height: rem(24px);
+    width: rem(20px);
+    height: rem(20px);
     fill: $accentDark;
     margin: rem(5px);
   }
 
   .get-theme {
     display: none;
-    font-size: rem(16px);
+    font-size: rem(13px);
     font-weight: bold;
     text-decoration: none;
     background-color: $themeColor;

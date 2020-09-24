@@ -21,14 +21,8 @@
                 </p> -->
                 <h3 class="post-title">{{ page.title }}</h3>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
-
-                {% if page.smartstorepage %}
-
-                <p><a id="cart" href="{{ page.smartstorepage }}" class="gocart" role="button">
+                <p><a id="cart" href="https://smartstore.naver.com/keygroup" class="gocart" role="button">
                 <svg class="icon-cart"><use xlink:href="#icon-cart"></use></svg></a> …ᘛ⁐̤ᕐᐷ STORE</p>
-
-                {% endif %}
-
                 {% if page.image and paginator.activated == nil %}
 
                 <!-- <img src="{{ page.image }}" alt="Featured image" class="post-cover"> -->
@@ -43,6 +37,30 @@
             </article>
 
         </section>
+
+                {% if site.two_columns_layout %}
+                    <aside class="see-also-shop">
+                        <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
+                        <ul>
+                            {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                            {% assign shuffled_array = next_posts | shuffle %}
+                            {% for post in shuffled_array limit:4 %}
+                                <li>
+                                    <a href="{{ post.url | prepend: site.baseurl }}">
+                                        {% if post.optimized_image %}
+                                            <img src="{{ post.optimized_image }}">
+                                        {% elsif post.image %}
+                                            <img src="{{ post.image }}">
+                                        {% else %}
+                                            <img src="/assets/img/off.jpg">
+                                        {% endif %}
+                                        <h3>{{ post.title }}</h3>
+                                    </a>
+                                </li>
+                            {% endfor %}
+                        </ul>
+                    </aside>
+                {% endif %}
 
         <!-- Add time bar only for pages without pagination -->
         {% if paginator.activated == nil and site.show_time_bar == true %}
@@ -61,34 +79,9 @@
         {% endif %}
 
         {% include subscription.html %}
-        <!-- {% include share.html %} -->
+        {% include share.html %}
         {% include author.html %}
         <!-- {% include comments.html %} -->
-
-        {% if site.two_columns_layout %}
-            <aside class="see-also-shop">
-                <h2>{{ site.translations.text.see_also | default: "See also" }}</h2>
-                <ul>
-                    {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-                    {% assign shuffled_array = next_posts | shuffle %}
-                    {% for post in shuffled_array limit:4 %}
-                        <li>
-                            <a href="{{ post.url | prepend: site.baseurl }}">
-                                {% if post.optimized_image %}
-                                    <img src="{{ post.optimized_image }}">
-                                {% elsif post.image %}
-                                    <img src="{{ post.image }}">
-                                {% else %}
-                                    <img src="/assets/img/off.jpg">
-                                {% endif %}
-                                <h3>{{ post.title }}</h3>
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </aside>
-        {% endif %}
-
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}

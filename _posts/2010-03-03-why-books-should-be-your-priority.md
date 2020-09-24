@@ -1,23 +1,22 @@
 ---
 date: 2020-09-21T23:48:05.000Z
 layout: shop
-title: 가로, 세로, 대각선 Barstool
+title: 가로,세로,대각선 STOOL
 subtitle: 250,000₩
 description: 바스툴은 키가 큽니다. 앉으면 스툴 다리 사이 어딘가에 우리 다리가 자리를 잡습니다. 키가 커진만큼 우리의 엉덩이 뿐만 아니라 다리도 걸터앉을 자리가 필요합니다. 바로 그곳에 디자인이 소용됩니다. 단순함과 기본의 조합으로 다양한 변주의 가능성을 심어봤습니다.
 image: >-
-  https://thumbs2.imgbox.com/4b/eb/8PgIDIAI_t.jpg
+  https://images2.imgbox.com/16/49/WUZAiRNE_o.jpg
 optimized_image: >-
-  https://images2.imgbox.com/4b/eb/8PgIDIAI_o.jpg
-category: shop
+  https://thumbs2.imgbox.com/16/49/WUZAiRNE_t.jpg
+category: life
 tags:
   - 바스툴
   - 카페
-author: Keygroupshop
+author: Keygroup Workshop
 paginate: true
 cloudName: keygroupshop
 cloudImageTag: people
 cloudeVideoTag: people
-smartstorepage: https://smartstore.naver.com/keygroup
 ---
 
 <!--page-->
@@ -36,15 +35,8 @@ smartstorepage: https://smartstore.naver.com/keygroup
 
   점,선,각을 이루는 Keygroup이 심은 씨앗입니다.
 
-
-
-```js
-//size
-421mm  x 421mm x 744mm
-//meterial
-Walnut, white oak
-//seal
-Osmo 4006 Wood Protector
-```
+|        | 가로  | 세로  | 높이  |       수종       |
+| ------ | :---: | :---: | :---: | :--------------: |
+| 바스툴 | 421mm | 421mm | 744mm | 월넛, 화이트오크 |
 
 <!--page-->
