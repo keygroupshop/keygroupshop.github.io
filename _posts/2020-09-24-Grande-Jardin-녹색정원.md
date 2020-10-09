@@ -4,8 +4,8 @@ layout: shop
 title: Grande Jardin 녹색정원
 subtitle: 400,000₩
 description: 그 취미를 내 방에.
-image:
-optimized_image:
+image: https://images2.imgbox.com/1f/8f/bwoe8Ijl_o.jpg
+optimized_image: https://thumbs2.imgbox.com/1f/8f/bwoe8Ijl_t.jpg
 category: shop
 tags:
   - 북트롤리
