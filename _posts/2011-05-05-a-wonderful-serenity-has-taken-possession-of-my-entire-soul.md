@@ -4,18 +4,18 @@ layout: post
 title: A wonderful serenity has taken possession of my entire soul
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://images2.imgbox.com/aa/0b/jdhZlhJm_o.jpg
-optimized_image: https://thumbs2.imgbox.com/aa/0b/jdhZlhJm_t.jpg
+image: https://images2.imgbox.com/2b/6c/zsK8LpYx_o.png
+optimized_image: https://thumbs2.imgbox.com/2b/6c/zsK8LpYx_t.png
 category: shop
 tags:
   - platform
   - javascript
   - vscode
-author: thiagorossener
-cloudName: keygroupshop
-cloudImageTag: trolley_soom
-cloudeVideoTag: trolley_soom
-cloudeSpinTag: trolley_soom
+author: keygroupshop
+cloudName: false
+cloudImageTag: false
+cloudeVideoTag: false
+cloudeSpinTag: false
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
