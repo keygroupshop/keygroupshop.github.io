@@ -2,7 +2,7 @@
 date: 2020-9-24 23:00:00
 layout: shop
 title: Grande Jardin 녹색정원
-subtitle: 400,000₩
+subtitle:
 description: 그 취미를 내 방에.
 image: https://images2.imgbox.com/1f/8f/bwoe8Ijl_o.jpg
 optimized_image: https://thumbs2.imgbox.com/1f/8f/bwoe8Ijl_t.jpg
@@ -42,6 +42,4 @@ smartstorepage: https://smartstore.naver.com/keygroup
 walnut,ash
 //seal
 Osmo 4006 Wood Protector
-//price
-400,000₩
 ```
