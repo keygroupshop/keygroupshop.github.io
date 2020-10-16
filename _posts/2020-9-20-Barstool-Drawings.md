@@ -6,9 +6,9 @@ subtitle: ㅡ ㅣ / 도면함
 description: >-
   __ \ ㅣ / __ \ ㅣ / __
 image: >-
- https://images2.imgbox.com/76/12/iMfhsmJm_o.jpg
+ https://images2.imgbox.com/a3/14/oT7EVECe_o.jpg
 optimized_image: >-
- https://thumbs2.imgbox.com/76/12/iMfhsmJm_t.jpg
+ https://thumbs2.imgbox.com/a3/14/oT7EVECe_t.jpg
 category: drawings+cartridge
 tags:
   - drawing
@@ -21,4 +21,4 @@ tags:
 author: Keygroupshop
 paginate: false
 ---
-<a href="https://imgbox.com/fBbQdkO6" target="_blank"><img src="https://images2.imgbox.com/c3/cd/fBbQdkO6_o.jpg" alt="바스툴_카트리지"/></a> 
+<img src="https://images2.imgbox.com/32/42/RKq4dcV6_o.jpg" alt="바스툴_카트리지"/> 

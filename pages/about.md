@@ -18,7 +18,7 @@ Keygroupshop은 블로그 형식의 홈페이지입니다.
 
 이런 환기된 마음에서 선명하게 느껴지는 감흥은 서울에서의 인간관계에도 쉼표를 줍니다.
 
-<a href="https://imgbox.com/oaeh6Jq7" target="_blank"><img src="https://images2.imgbox.com/f2/c2/oaeh6Jq7_o.jpg" alt="imgbox"/></a>
+<img src="https://images2.imgbox.com/f2/c2/oaeh6Jq7_o.jpg" alt="시골_공방"/>
 
 한적생활에서 디자인하고 제작하는 가구는 공장에서 만들어지는 가구나 아틀리에에서 만드는 아트퍼니처와는 또 다른 결이 드러납니다.
 
@@ -32,7 +32,7 @@ Keygroupshop은 블로그 형식의 홈페이지입니다.
 
 이런 메커니즘은 키구룹이 제안하는 가구와 사용자의 관심, 키구룹의 미적 관점과 사용자의 이해를 핵심으로 강화됩니다.
 
-<a href="https://imgbox.com/gC2LceCb" target="_blank"><img src="https://images2.imgbox.com/89/62/gC2LceCb_o.jpg" alt="imgbox"/></a>
+<img src="https://images2.imgbox.com/89/62/gC2LceCb_o.jpg" alt="공방사진_명함"/>
 
 ##### 가구에 대해
 
@@ -44,7 +44,7 @@ Keygroupshop은 블로그 형식의 홈페이지입니다.
 
 이 스펙트럼 사이 어느 곳에서 키구룹이 모습을 드러낼지 또한 고민이 있었습니다.
 
-<a href="https://imgbox.com/KgFUBqMt" target="_blank"><img src="https://images2.imgbox.com/2c/d3/KgFUBqMt_o.jpg" alt="imgbox"/></a>
+<img src="https://images2.imgbox.com/2c/d3/KgFUBqMt_o.jpg" alt="커스텀_이젤_custom_easel"/>
 
 미술전공에 여행을 좋아한다는 것을 배경으로 가구의 형태와 비율의 조절로 다가오는 디자인의 새로움에 관심을 가지고 있습니다.
 
