@@ -1,5 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+Mozilla/5.0 (compatible; Yeti/1.1; +http://naver.me/spd)
 Allow: /
 Sitemap: http://keygroupshop.com/sitemap.xml
