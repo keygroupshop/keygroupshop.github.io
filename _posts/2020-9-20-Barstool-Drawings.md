@@ -4,7 +4,7 @@ layout: post
 title: Barstool Drawings
 subtitle: ㅡ ㅣ / 도면함
 description: >-
-  __ \ ㅣ / __ \ ㅣ / __
+  ㅡ \ ㅣ / ㅡ \ ㅣ / ㅡ
 image: >-
  https://images2.imgbox.com/a3/14/oT7EVECe_o.jpg
 optimized_image: >-
@@ -21,4 +21,4 @@ tags:
 author: Keygroupshop
 paginate: false
 ---
-<img src="https://images2.imgbox.com/32/42/RKq4dcV6_o.jpg" alt="바스툴_카트리지"/> 
+<img src="https://images2.imgbox.com/32/42/RKq4dcV6_o.jpg" alt="바스툴_카트리지"/>
