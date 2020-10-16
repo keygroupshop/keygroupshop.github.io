@@ -4,7 +4,7 @@ layout: post
 title: Barstool Drawings
 subtitle: ㅡ ㅣ / 도면함
 description: >-
-  ㅡ \ ㅣ / ㅡ \ ㅣ / ㅡ
+  ㅡ ㅣ /
 image: >-
  https://images2.imgbox.com/a3/14/oT7EVECe_o.jpg
 optimized_image: >-
