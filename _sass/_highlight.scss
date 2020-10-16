@@ -1,8 +1,10 @@
 pre {
-  background: #282a36;
+  // background: #282a36;
+  background: #e9ebeb;
   width: 100%;
   padding: rem(20px) 0;
-  color: $accentDark;
+  // color: $accentDark;
+    color: #808080;
   margin: rem(30px) 0;
   font-size: rem(14px);
 
@@ -60,7 +62,7 @@ pre {
     color: #66d9ef;
   }
 
-  .l,     // Literal 
+  .l,     // Literal
   .mf,    // Literal.Number.Float
   .mh,    // Literal.Number.Hex
   .mi,    // Literal.Number.Integer

@@ -35,7 +35,7 @@ smartstorepage: https://smartstore.naver.com/keygroup
 
 그리고 그 취미를 내 방에 가져오고 싶어요. #읽고싶은책 #버킷리스트 #북트롤리 #생활의발견
 
-```js
+```
 //size
 475mm x 430mm x 360mm(caster wheel 80mm)
 //meterial
