@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+Allow: /
+Sitemap: http://keygroupshop.com/sitemap.xml
