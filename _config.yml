@@ -17,9 +17,9 @@ menu:
   - title: About
     url: /about
   - title: Shop
-    url: /category/shop/
-  - title: Drawing+Cartridge
-    url: /category/drawings+cartridge/
+    url: /category/shop
+  - title: Drawings+Cartridge
+    url: /category/drawings+cartridge
   - title: Life
     url: /life
   - title: Contact
