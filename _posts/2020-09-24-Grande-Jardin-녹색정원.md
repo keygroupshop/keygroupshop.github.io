@@ -38,8 +38,10 @@ smartstorepage: https://smartstore.naver.com/keygroup
 ```
 //size
 475mm x 430mm x 360mm(caster wheel 80mm)
+
 //meterial
 walnut,ash
+
 //seal
 Osmo 4006 Wood Protector
 ```
