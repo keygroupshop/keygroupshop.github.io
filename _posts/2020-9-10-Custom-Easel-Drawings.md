@@ -6,9 +6,9 @@ subtitle: 커스텀이젤 도면함
 description: >-
 
 image: >-
- https://images2.imgbox.com/cb/1b/0aZ7BiBl_o.jpg
+ https://images2.imgbox.com/6a/ed/wBk1tE0j_o.jpg
 optimized_image: >-
- https://thumbs2.imgbox.com/cb/1b/0aZ7BiBl_t.jpg
+ https://thumbs2.imgbox.com/6a/ed/wBk1tE0j_t.jpg
 category: drawings+cartridge
 tags:
   - drawing
