@@ -4,7 +4,7 @@ layout: post
 title: Custom Easel Drawings
 subtitle: 커스텀이젤 도면함
 description: >-
-
+ 이젤은 가구가 되고싶다.
 image: >-
  https://images2.imgbox.com/6a/ed/wBk1tE0j_o.jpg
 optimized_image: >-

@@ -1,7 +1,7 @@
 ---
 date: 2020-9-24 23:00:00
 layout: shop
-title: Grande Jardin 녹색정원
+title: Bibliomano 독서광의 트롤리
 subtitle:
 description: 그 취미를 내 방에.
 image: https://images2.imgbox.com/1f/8f/bwoe8Ijl_o.jpg
@@ -12,10 +12,11 @@ tags:
   - 가드닝
   - 홈카페
   - 정원
+  - 독서광
 author: keygroupshop
 cloudName: keygroupshop
-cloudImageTag: Grande Jardin
-cloudeVideoTag: Grande Jardin
+cloudImageTag: Bibliomano
+cloudeVideoTag: false
 cloudeSpinTag: false
 smartstorepage: https://smartstore.naver.com/keygroup
 ---
@@ -33,7 +34,7 @@ smartstorepage: https://smartstore.naver.com/keygroup
 
 매일 조금씩 자라는 식물들에 물을 주며 가드닝을 하는 그 시간. 북 트롤리에 내가 올해 읽고 싶은 책 열 권을 정해 꽂고 여유를 즐겨보는 건 어떨까 하는 상상에 빠져봅니다.
 
-그리고 그 취미를 내 방에 가져오고 싶어요. #읽고싶은책 #버킷리스트 #북트롤리 #생활의발견
+그리고 그 취미를 내 방에 가져오고 싶어요. #읽고싶은책 #버킷리스트 #북트롤리 #독서광 #생활의발견
 
 ```
 //size
