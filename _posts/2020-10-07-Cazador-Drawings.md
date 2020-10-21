@@ -8,7 +8,7 @@ description: >-
 image: >-
  https://images2.imgbox.com/29/de/lmZS23QK_o.jpg
 optimized_image: >-
- https://thumbs2.imgbox.com/29/de/lmZS23QK_t.jpg
+ https://thumbs2.imgbox.com/97/e3/ZBenejbK_t.jpg
 category: drawings+cartridge
 tags:
   - drawing
