@@ -16,6 +16,7 @@ tags:
   - custom
 author: Keygroupshop
 paginate: false
+published: false
 ---
 <img src="https://images2.imgbox.com/13/39/vue5ZmqR_o.jpg" alt="커스텀이젤_카트리지"/>
 <img src="https://images2.imgbox.com/4e/73/9JzLNoBI_o.jpg" alt="커스텀이젤_공방"/>

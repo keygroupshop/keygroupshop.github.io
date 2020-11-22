@@ -16,5 +16,6 @@ tags:
   - leather
 author: Keygroupshop
 paginate: false
+published: false
 ---
 <img src="https://images2.imgbox.com/5f/88/xrKOzBD6_o.jpg" alt="imgbox"/>
