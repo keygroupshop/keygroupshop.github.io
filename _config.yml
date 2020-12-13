@@ -20,8 +20,8 @@ menu:
     url: /about
   - title: Shop
     url: /category/shop
-  - title: Drawings+Cartridge
-    url: /category/drawings+cartridge
+  # - title: Drawings+Cartridge
+  #   url: /category/drawings+cartridge
   - title: Life
     url: /life
   - title: Contact

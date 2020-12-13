@@ -4,8 +4,8 @@ layout: shop
 title: Bibliomano 독서광의 트롤리
 subtitle: 400,000￦
 description: 그 취미를 내 방에.
-image: https://images2.imgbox.com/1f/8f/bwoe8Ijl_o.jpg
-optimized_image: https://thumbs2.imgbox.com/1f/8f/bwoe8Ijl_t.jpg
+image: https://images2.imgbox.com/e2/9d/d9fpelZ8_o.jpg
+optimized_image: https://thumbs2.imgbox.com/e2/9d/d9fpelZ8_t.jpg
 category: shop
 tags:
   - 북트롤리
@@ -38,10 +38,10 @@ smartstorepage: https://smartstore.naver.com/keygroup
 
 ```
 //size
-475mm x 430mm x 360mm(caster wheel 80mm)
+475mm x 430mm x 360mm (caster wheel 63mm)
 
 //meterial
-walnut,ash
+walnut . ash
 
 //seal
 Osmo 4006 Wood Protector
