@@ -2,7 +2,7 @@
 date: 2020-11-15 23:00:00
 layout: shop
 title: Campamentor
-subtitle: <del>350,000￦</del> 320,000￦
+subtitle:
 description: 음소거의 시간이 필요합니다.
 image: https://images2.imgbox.com/95/54/yfJMul1x_o.jpg
 optimized_image: https://thumbs2.imgbox.com/95/54/yfJMul1x_t.jpg
