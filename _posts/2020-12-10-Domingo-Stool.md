@@ -2,7 +2,7 @@
 date: 2020-12-10 22:00:00
 layout: shop
 title: Domingo Stool
-subtitle: 300,000￦
+subtitle: 
 description: 일요일과 스툴은 닮았어.
 image: https://images2.imgbox.com/1d/d5/aaUlmTy7_o.jpg
 optimized_image: https://thumbs2.imgbox.com/1d/d5/aaUlmTy7_t.jpg

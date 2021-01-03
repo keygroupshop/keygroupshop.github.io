@@ -2,7 +2,7 @@
 date: 2020-9-24 23:00:00
 layout: shop
 title: Bibliomano 독서광의 트롤리
-subtitle: 400,000￦
+subtitle: 
 description: 그 취미를 내 방에.
 image: https://images2.imgbox.com/e2/9d/d9fpelZ8_o.jpg
 optimized_image: https://thumbs2.imgbox.com/e2/9d/d9fpelZ8_t.jpg
